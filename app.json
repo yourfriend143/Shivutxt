@@ -28,7 +28,7 @@
         },
         "token_cp":{
             "description": "𝘌𝘯𝘵𝘦𝘳 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘊𝘭𝘢𝘴𝘴𝘱𝘭𝘶𝘴 𝘛𝘰𝘬𝘦𝘯",
-            "value": "eyJjb3Vyc2VJZCI6IjQxOTk4MCIsInR1dG9ySWQiOm51bGwsIm9yZ0lkIjo5MTgzLCJjYXRlZ29yeUlkIjpudWxsfQ==",
+            "value": "eyJhbGciOiJIUzM4NCIsInR5cCI6IkpXVCJ9.eyJpZCI6MTE1MDU0NzgwLCJvcmdJZCI6NzYxOCwidHlwZSI6MSwibW9iaWxlIjoiOTE5NTMwNDAxOTAxIiwibmFtZSI6IlB1bmVldCIsImVtYWlsIjoiNjJhMGZkOTc2YjVlNDlkNjg2NDVmNmYxNWE5MTM0NGFAZ21haWwuY29tIiwiaXNGaXJzdExvZ2luIjp0cnVlLCJkZWZhdWx0TGFuZ3VhZ2UiOiJFTiIsImNvdW50cnlDb2RlIjoiSU4iLCJpc0ludGVybmF0aW9uYWwiOjAsImlzRGl5Ijp0cnVlLCJsb2dpblZpYSI6Ik90cCIsImZpbmdlcnByaW50SWQiOiJmNmM3NGEwNmQyYWI0NGYwYWQxMGYxNTIwYTQxMmJmYSIsImlhdCI6MTc0OTg3OTEyNywiZXhwIjoxNzUwNDgzOTI3fQ.pvGOZM-b1o0V_dAkCk2v_4AFZ1K641Wubx4iXWV_a4VYfoCzEjk0T2P0iAfk2u00",
             "required": true
         }
     },
